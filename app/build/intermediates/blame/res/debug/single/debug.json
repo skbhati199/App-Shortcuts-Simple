@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "E:\\MetroProjectWorkspace\\android-AppShortcuts\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\MetroProjectWorkspace\\android-AppShortcuts\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\MetroProjectWorkspace\\android-AppShortcuts\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\MetroProjectWorkspace\\android-AppShortcuts\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\MetroProjectWorkspace\\android-AppShortcuts\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\MetroProjectWorkspace\\android-AppShortcuts\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\MetroProjectWorkspace\\android-AppShortcuts\\app\\build\\intermediates\\res\\merged\\debug\\xml_shortcuts.xml.flat",
+        "source": "E:\\MetroProjectWorkspace\\android-AppShortcuts\\app\\src\\main\\res\\xml\\shortcuts.xml"
+    },
+    {
+        "merged": "E:\\MetroProjectWorkspace\\android-AppShortcuts\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "E:\\MetroProjectWorkspace\\android-AppShortcuts\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\MetroProjectWorkspace\\android-AppShortcuts\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\MetroProjectWorkspace\\android-AppShortcuts\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\MetroProjectWorkspace\\android-AppShortcuts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_link.png.flat",
+        "source": "E:\\MetroProjectWorkspace\\android-AppShortcuts\\app\\src\\main\\res\\drawable-nodpi\\link.png"
+    },
+    {
+        "merged": "E:\\MetroProjectWorkspace\\android-AppShortcuts\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\MetroProjectWorkspace\\android-AppShortcuts\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\MetroProjectWorkspace\\android-AppShortcuts\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\MetroProjectWorkspace\\android-AppShortcuts\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\MetroProjectWorkspace\\android-AppShortcuts\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\MetroProjectWorkspace\\android-AppShortcuts\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\MetroProjectWorkspace\\android-AppShortcuts\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\MetroProjectWorkspace\\android-AppShortcuts\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\MetroProjectWorkspace\\android-AppShortcuts\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_add.png.flat",
+        "source": "E:\\MetroProjectWorkspace\\android-AppShortcuts\\app\\src\\main\\res\\drawable-nodpi\\add.png"
+    },
+    {
+        "merged": "E:\\MetroProjectWorkspace\\android-AppShortcuts\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item.xml.flat",
+        "source": "E:\\MetroProjectWorkspace\\android-AppShortcuts\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "E:\\MetroProjectWorkspace\\android-AppShortcuts\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "E:\\MetroProjectWorkspace\\android-AppShortcuts\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\MetroProjectWorkspace\\android-AppShortcuts\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\MetroProjectWorkspace\\android-AppShortcuts\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]
